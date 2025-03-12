@@ -1,0 +1,1 @@
+enum Menu { skill, mahasiswa }
